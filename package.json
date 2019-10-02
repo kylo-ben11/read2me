@@ -1,0 +1,16 @@
+{
+  "name": "read2me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swup/preload-plugin": "^1.0.3",
+    "@swup/slide-theme": "^1.0.5",
+    "swup": "^2.0.7"
+  }
+}
