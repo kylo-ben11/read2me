@@ -51,8 +51,8 @@ body .books .shelf .book-icon a {
 }
 
 body .books .shelf .book-icon a img {
-  height: auto;
-  width: 100px;
+  width: auto;
+  height: 100px;
 }
 
 body .book {
@@ -133,8 +133,8 @@ body .nav-panel.open {
 }
 
 .transition-fade {
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
   opacity: 1;
 }
 
